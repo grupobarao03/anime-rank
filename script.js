@@ -1,7 +1,7 @@
 const candidatos = {
-    12: "sete pecados capitais",
-    34: "dragom boll",
-    56: "one pice"
+    12: "Nanatsu no taizai",
+    34: "dragon ball",
+    56: "one piece"
 };
 
 const votos = {
