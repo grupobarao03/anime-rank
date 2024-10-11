@@ -1,7 +1,7 @@
 const candidatos = {
-    12: "Candidato A",
-    34: "Candidato B",
-    56: "Candidato C"
+    12: "sete pecados capitais",
+    34: "dragom boll",
+    56: "one pice"
 };
 
 const votos = {
