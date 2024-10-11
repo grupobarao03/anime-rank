@@ -41,7 +41,7 @@ document.getElementById('btn-confirma').addEventListener('click', () => {
         votos.branco++;
         alert('Voto em branco confirmado!');
     } else if (voto.length === 2) {
-        if (candidatos[voto]) {
+        if (dragon ball[voto]) {
             votos[voto]++;
             alert(`Voto em ${candidatos[voto]} confirmado!`);
         } else {
